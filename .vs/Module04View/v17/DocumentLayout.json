@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|c:\\users\\admin\\documents\\avie\\xamarin\\module04view\\module04view\\module04view\\collectionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\collectionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|c:\\users\\admin\\documents\\avie\\xamarin\\module04view\\module04view\\module04view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|c:\\users\\admin\\documents\\avie\\xamarin\\module04view\\module04view\\module04view\\collectionview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\collectionview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|c:\\users\\admin\\documents\\avie\\xamarin\\module04view\\module04view\\module04view\\imagecell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\imagecell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|c:\\users\\admin\\documents\\avie\\xamarin\\module04view\\module04view\\module04view\\imagecell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\imagecell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|c:\\users\\admin\\documents\\avie\\xamarin\\module04view\\module04view\\module04view\\entrycell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\entrycell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|c:\\users\\admin\\documents\\avie\\xamarin\\module04view\\module04view\\module04view\\entrycell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\entrycell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|c:\\users\\admin\\documents\\avie\\xamarin\\module04view\\module04view\\module04view\\switchcell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\switchcell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|c:\\users\\admin\\documents\\avie\\xamarin\\module04view\\module04view\\module04view\\switchcell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\switchcell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|c:\\users\\admin\\documents\\avie\\xamarin\\module04view\\module04view\\module04view\\textcell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\textcell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|c:\\users\\admin\\documents\\avie\\xamarin\\module04view\\module04view\\module04view\\textcell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\textcell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|c:\\users\\admin\\documents\\avie\\xamarin\\module04view\\module04view\\module04view\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|c:\\users\\admin\\documents\\avie\\xamarin\\module04view\\module04view\\module04view\\sin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\sin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|c:\\users\\admin\\documents\\avie\\xamarin\\module04view\\module04view\\module04view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32696F6F-824B-4ED7-BC00-3C80AA61FEC9}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectionView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\CollectionView.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\CollectionView.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\CollectionView.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\CollectionView.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:01:27.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageCell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\ImageCell.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\ImageCell.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\ImageCell.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\ImageCell.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAD8AAAC/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T05:52:17.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntryCell.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\EntryCell.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\EntryCell.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\EntryCell.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\EntryCell.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T14:28:10.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntryCell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\EntryCell.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\EntryCell.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\EntryCell.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\EntryCell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:40:02.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SwitchCell.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\SwitchCell.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\SwitchCell.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\SwitchCell.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\SwitchCell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T14:27:33.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SwitchCell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\SwitchCell.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\SwitchCell.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\SwitchCell.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\SwitchCell.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:07:25.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextCell.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\TextCell.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\TextCell.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\TextCell.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\TextCell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T14:27:05.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TextCell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\TextCell.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\TextCell.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\TextCell.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\TextCell.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvzoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T04:10:55.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\App.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:31:39.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\MainPage.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\MainPage.xaml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T13:31:06.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\MainPage.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:31:10.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageCell.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\ImageCell.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\ImageCell.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\ImageCell.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\ImageCell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T14:27:23.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollectionView.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\CollectionView.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\CollectionView.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\CollectionView.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\CollectionView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T14:34:03.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sin.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\Sin.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\Sin.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\xamarin\\Module04View\\Module04View\\Module04View\\Sin.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\Sin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T04:32:22.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

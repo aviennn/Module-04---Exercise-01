@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="#BAEDF5"
+             x:Class="Module04View.EntryCell">
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout HeightRequest="50"/>
+            <Label Text="Welcome to Entry Cell!"
+                   FontSize="Large"
+                   TextColor="#F8972A"
+                   HorizontalOptions="CenterAndExpand" />
+            <StackLayout HeightRequest="50"/>
+
+            <TableView Intent="Form">
+                <TableRoot>
+                    <TableSection Title="Seven Deadly Sins Thoughts" TextColor="#D72928">
+                        <EntryCell Label="Favorite:" 
+                                   LabelColor="#D72928"
+                       Placeholder="Favorite character"
+                       x:Name="fcharac"/>
+                        
+                        <EntryCell Label="Hate:" 
+                                   LabelColor="#D72928"
+                       Placeholder="Villain You Hate"
+                       x:Name="hvillain"/>
+                        
+                        <EntryCell Label="Rating:"
+                                   LabelColor="#D72928"
+                       Placeholder="Enter your rating of the anime"
+                       x:Name="myRating"/>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+
+            <Button Text="Submit" Clicked="OnSubmitEntry" BackgroundColor="#F8972A" />
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

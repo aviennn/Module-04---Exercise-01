@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="#452a5d"
+             x:Class="Module04View.ImageCell">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout HeightRequest="50"/>
+            <Label Text="Welcome to Image Cell!"
+                   FontSize="Large"
+                   TextColor="White"
+                    HorizontalOptions="CenterAndExpand" />
+            <StackLayout HeightRequest="50"/>
+            
+            <ListView x:Name="SinView" ItemsSource="{Binding Sins}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ImageCell ImageSource="{Binding Image}"
+                       Text="{Binding DisplayName}" 
+                       TextColor="#ffcc00"
+                       Detail="{Binding SinType}"
+                       DetailColor="#0d98ba">
+                            
+                        </ImageCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

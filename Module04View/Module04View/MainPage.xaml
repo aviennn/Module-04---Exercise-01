@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="#F3E5F5"
+             x:Class="Module04View.MainPage" Title="Avien Flaire C. Batul">
+
+    <StackLayout Padding="15" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+        <!-- Title -->
+        <Label Text="Dashboard"
+                   FontSize="30"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   TextColor="#673AB7" />
+
+        <!-- Buttons -->
+        <Grid Margin="0,30,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <!-- Button 1 -->
+            <Button Grid.Row="0" Grid.Column="0"
+                        Text="Text Cell"
+                        TextColor="Black"
+                        BackgroundColor="#D1C4E9"
+                        Clicked="TextCell_Clicked" />
+
+            <!-- Button 2 -->
+            <Button Grid.Row="0" Grid.Column="1"
+                        Text="Image Cell"
+                        TextColor="Black"
+                        BackgroundColor="#B39DDB"
+                        Clicked="ImageCell_Clicked" />
+
+            <!-- Button 3 -->
+            <Button Grid.Row="1" Grid.Column="0"
+                        Text="Switch Cell"
+                        TextColor="Black"
+                        BackgroundColor="#9575CD"
+                        Clicked="SwitchCell_Clicked" />
+
+            <!-- Button 4 -->
+            <Button Grid.Row="1" Grid.Column="1"
+                        Text="Entry Cell"
+                        TextColor="Black"
+                        BackgroundColor="#7E57C2"
+                        Clicked="EntryCell_Clicked" />
+
+            <!-- Button 5 -->
+            <Button Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"
+                        Text="Collection View"
+                        TextColor="Black"
+                        BackgroundColor="#673AB7"
+                        Clicked="CollectionView_Clicked" />
+        </Grid>
+
+        <!-- Trigger Button for Alert -->
+        <Button Text="Click for details"
+                    Clicked="DisplayAlert_Clicked"
+                    HorizontalOptions="Center"
+                    VerticalOptions="End"
+                    BackgroundColor="#673AB7"
+                    TextColor="#FFFFFF"
+                    CornerRadius="20"
+                    Margin="0,20,0,0" />
+    </StackLayout>
+
+</ContentPage>

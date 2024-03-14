@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="#BAEDF5"
+             x:Class="Module04View.SwitchCell">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout HeightRequest="50"/>
+            <Label Text="Welcome to Switch Cell!"
+                   FontSize="Large"
+                   TextColor="Black"
+                   HorizontalOptions="CenterAndExpand" /> 
+            <StackLayout HeightRequest="50"/>
+            
+            <ListView x:Name="SinView" ItemsSource="{Binding Sins}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <SwitchCell Text="{Binding DisplayName}"  
+                                    OnColor="#ACF98F"
+                                    OnChanged="displayMsg"> 
+                        </SwitchCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

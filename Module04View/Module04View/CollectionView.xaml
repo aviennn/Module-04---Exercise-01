@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="#452a5d"
+             x:Class="Module04View.CollectionView">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout HeightRequest="50"/>
+            <Label Text="Welcome to Collection View!"
+                   FontSize="Large"
+                   TextColor="White"
+                   HorizontalOptions="CenterAndExpand" /> 
+            <StackLayout HeightRequest="50"/>
+
+            <CollectionView x:Name="theSins"
+                            SelectionMode="Single"
+                            SelectionChanged="sevenDeadlySins_Selection"
+                ItemsLayout="VerticalGrid, 2">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="10">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="35" />
+                                <RowDefinition Height="35" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="70" />
+                                <ColumnDefinition Width="80" />
+                            </Grid.ColumnDefinitions>
+
+                            <Image Grid.RowSpan="2"
+                                   Source="{Binding Image}"
+                                   Aspect="AspectFill"
+                                   HeightRequest="60"
+                                   WidthRequest="60" />
+                            <Label Grid.Column="1"
+                                   Text="{Binding DisplayName}"
+                                   TextColor="#ffcc00"
+                                   FontAttributes="Bold"
+                                   LineBreakMode="TailTruncation" />
+                            <Label Grid.Row="1"
+                                   Grid.Column="1"
+                                   Text="{Binding SinType}"
+                                   TextColor="#0d98ba"
+                                   LineBreakMode="TailTruncation"
+                                   FontAttributes="Italic"
+                                   VerticalOptions="End" /> 
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
